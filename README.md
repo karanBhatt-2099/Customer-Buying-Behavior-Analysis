@@ -48,14 +48,23 @@ Loaded the cleaned dataset into SQL for advanced analysis
 
 I used Microsoft SQL Server to answer key business questions:
 Revenue by Gender – Compared total revenue from male vs. female customers.
+
 High-Spending Discount Users – Identified customers who used discounts but still spent above the average purchase amount.
+
 Top 5 Products by Rating – Products with the highest average review ratings.
+
 Shipping Type Comparison – Average purchase amount for Standard vs. Express shipping.
+
 Subscribers vs. Non-Subscribers – Compared total revenue and average spend.
+
 Discount-Dependent Products – Top 5 products with the highest percentage of discounted purchases.
+
 Customer Segmentation – Classified customers as New, Returning, or Loyal.
+
 Top 3 Products per Category – Most purchased products in each category.
+
 Repeat Buyers & Subscriptions – Analyzed if customers with more than 5 purchases are more likely to subscribe.
+
 Revenue by Age Group – Total revenue contribution by each age group.
 
 📊 Power BI Dashboard:
